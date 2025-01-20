@@ -4,9 +4,9 @@ This project aims to simulate a forage job, utilizing data science techniques to
 
 ## Table of Contents
 - [Overview](#overview)
-- [Stage 1: Data Engineering](#stage-1-data-engineering)
-- [Stage 2: Data Analytics](#stage-2-data-analytics)
-- [Stage 3: Data Science](#stage-3-data-science)
+- [Stage 1: Data Engineering](#stage-1-data-engineering) - Complete
+- [Stage 2: Data Analytics](#stage-2-data-analytics) - In prog
+- [Stage 3: Data Science](#stage-3-data-science) - In prog
 - [Technical Requirements](#technical-requirements)
 - [Getting Started](#getting-started)
 
