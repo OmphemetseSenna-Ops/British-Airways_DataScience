@@ -46,7 +46,7 @@ BEGIN
         FROM 
             Reviews
     ) AS CTE
-    WHERE RowNum = 1; -- Only select unique rows
+    WHERE RowNum = 1; 
 END;
 
 EXEC InsertUniqueReviews
