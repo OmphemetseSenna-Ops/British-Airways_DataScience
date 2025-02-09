@@ -47,6 +47,56 @@ Finally, in the third stage, we'll apply machine learning (ML) predictive models
 - Power BI
 - Python libraries (pandas, NumPy, and more)
 
+## RESULTS
+### DashBoards Power BI:
+![alt text](<Overall Overview Dashboard.png>)
+![alt text](<Recommended Flights Dashboard.png>)
+![alt text](<Flight Service DashBoard.png>)
+
+### ML Predictive Model:
+#### Predict Recommend Service using RandomForestClassifier
+![alt text](image-1.png)
+
+### Using Hyperparameter Tuning
+![alt text](image-2.png)
+
+### Using NN
+![alt text](image-3.png)
+
+### Sentiment Analysis
+![alt text](image.png)
 
 
+### ML Pattern and Insight Model:
+#### Average Service Ratings by Cluster:
+![alt text](image-4.png)
 
+### Kmeans Clustering
+![alt text](image-5.png)
+
+![alt text](image-6.png)
+
+### Multivariate
+#### Kmeans Clustering PCA and SNE
+![alt text](image-7.png)
+
+#### DBSCAN Clustering PCA and SNE
+![alt text](image-8.png)
+
+
+#### Hierarchical Clustering PCA and SNE
+![alt text](image-9.png)
+
+### Association Rule
+![alt text](image-10.png)
+
+
+### Service Performances
+#### Service Pairs
+![alt text](image-11.png)
+
+
+#### Distribution Services
+![alt text](image-12.png)
+
+![alt text](image-13.png)
