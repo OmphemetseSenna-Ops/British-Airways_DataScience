@@ -11,16 +11,16 @@ This project aims to simulate a forage job, utilizing data science techniques to
 - [Getting Started](#getting-started)
 
 ## Overview
-This project is designed to explore the forage job Airways data using data science techniques. The data will be extracted from a public website, transformed into a suitable format, and analyzed using various tools and techniques.
+This project is designed to explore the forage job Airways data using data science techniques. The data was be extracted from a public website, transformed into a suitable format, and analyzed using various tools and techniques.
 
 ## Stage 1: Data Engineering (Done)
 ### Objective
-In the first stage, we'll focus on Extracting, Transforming, and Loading (ETL) forage job data from the ABC website using Python's Beautiful Soup library for web scraping.
+In the first stage, we'll focus on Extracting, Transforming, and Loading (ETL) forage job data from the www.airlinequality.com/ website using Python's Beautiful Soup library for web scraping.
 
 ### Tasks
 - Web scraping: Use Python's Beautiful Soup library to extract data from the www.airlinequality.com/ website.
 - Data transformation: Transform the data into a tabular format.
-- Data loading: Load the transformed data into a Microsoft SQL Server database, specifically the AAA table.
+- Data loading: Load the transformed data into a Microsoft SQL Server database.
 - Data cleaning: Clean and structure the data in the Review table.
 - Data normalization: Normalize the Review table.
 
